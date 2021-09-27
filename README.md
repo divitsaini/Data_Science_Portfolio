@@ -3,7 +3,7 @@
 I am a fellow Chemical Engineer who is currently pursuing MSc Advanced Chemical Engineering at Imperial College London. The inquisitiveness regarding Data-Driven approaches in the domain of engineering motivated me to explore the field of Data Science by completing a Post Graduate Diploma in Data Science and AI from the College of Engineering Pune, India. This portfolio entails completed Data Science end-to-end projects as well as different case studies specific to Machine Learning Algorithms. The prjects are showcased in the form of jupyter notebooks implemented in Python as well as R.
 
 **End-to-End Projects** - includes the following methodology:
-- Introduction: Brief introduction to the project highlingting the problem statement along with the objective of the project.
+- *Introduction*: Brief introduction to the project highlingting the problem statement along with the objective of the project.
 - Dataset Description: A description regarding the source of the dataset along with the variables used. This also highlights the performance metrics used for comparison
 - Importing Dataset and libraries required
 - Exploratory Data Analysis (EDA): Gaining insights from the dataset by exploring every dependent and independent variables. A few tasks includes checking variables for missing values; finding the range of different variables before implementing standardisation; finding correlation between the variables etc. All of this is done using pandas library in Python and dplyr in R.
