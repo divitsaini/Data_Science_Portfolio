@@ -2,6 +2,13 @@
 
 I am a fellow Chemical Engineer who is currently pursuing MSc Advanced Chemical Engineering at Imperial College London. The inquisitiveness regarding Data-Driven approaches in the domain of engineering motivated me to explore the field of Data Science by completing a Post Graduate Diploma in Data Science and AI from the College of Engineering Pune, India. This portfolio entails completed Data Science end-to-end projects as well as different case studies specific to Machine Learning Algorithms.
 
+**End-to-End Projects** - includes the following methodology:
+- Introduction: Brief introduction to the project highlingting the problem statement along with the objective of the project.
+- Dataset Description: A description regarding the source of the dataset along with the variables used.
+- Table of Contents: A list highlighting the different subheadings used in the project
+    - Importing Dataset and libraries required
+    - 
+
 # Data Science Portfolio - Arch Desai
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
