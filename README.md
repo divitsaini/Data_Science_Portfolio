@@ -1,6 +1,10 @@
 # Data Science Portfolio - Divit Saini
 
-I am a fellow Chemical Engineer who is currently pursuing MSc Advanced Chemical Engineering at Imperial College London. The inquisitiveness regarding Data-Driven approaches in the domain of engineering motivated me to explore the field of Data Science by completing a Post Graduate Diploma in Data Science and AI from the College of Engineering Pune, India. This portfolio entails completed Data Science end-to-end projects as well as different case studies specific to Machine Learning Algorithms. The prjects are showcased in the form of jupyter notebooks implemented in Python as well as R.
+I am a fellow Chemical Engineer who is currently pursuing MSc Advanced Chemical Engineering at Imperial College London. The inquisitiveness regarding Data-Driven approaches in the domain of engineering motivated me to explore the field of Data Science by completing a Post Graduate Diploma in Data Science and AI from the College of Engineering Pune, India. This portfolio entails completed Data Science end-to-end projects as well as different case studies specific to Machine Learning Algorithms. The projects are showcased in the form of jupyter notebooks implemented in Python as well as R. This is updated on a regular basis.
+
+- **Email**: [sainidivit@gmail.com](sainidivit@gmail.com)
+- **LinkedIn**: [linkedin.com/divitsaini](https://www.linkedin.com/in/divitsaini/)
+
 
 Every **End-to-End Projects** includes the following methodology:
 1. *Introduction*: Brief introduction to the project highlingting the problem statement along with the objective of the project.
@@ -19,8 +23,6 @@ Every **End-to-End Projects** includes the following methodology:
 # Data Science Portfolio - Arch Desai
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
-- **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
-- **LinkedIn**: [linkedin.com/archd3sai](https://www.linkedin.com/in/archd3sai/)
 
 ## Achievements
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
