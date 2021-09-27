@@ -2,17 +2,18 @@
 
 I am a fellow Chemical Engineer who is currently pursuing MSc Advanced Chemical Engineering at Imperial College London. The inquisitiveness regarding Data-Driven approaches in the domain of engineering motivated me to explore the field of Data Science by completing a Post Graduate Diploma in Data Science and AI from the College of Engineering Pune, India. This portfolio entails completed Data Science end-to-end projects as well as different case studies specific to Machine Learning Algorithms. The prjects are showcased in the form of jupyter notebooks implemented in Python as well as R.
 
-**End-to-End Projects** - includes the following methodology:
-- *Introduction*: Brief introduction to the project highlingting the problem statement along with the objective of the project.
-- Dataset Description: A description regarding the source of the dataset along with the variables used. This also highlights the performance metrics used for comparison
-- Importing Dataset and libraries required
-- Exploratory Data Analysis (EDA): Gaining insights from the dataset by exploring every dependent and independent variables. A few tasks includes checking variables for missing values; finding the range of different variables before implementing standardisation; finding correlation between the variables etc. All of this is done using pandas library in Python and dplyr in R.
-- Data Preprocessing: Includes tasks like imputing missing values; Standardisation/Normalisation of the numeric dependent variables
-- Feature Engineering: Includes tasks like One-hot encoding; Label encoding; Feature extraction techniques such as Recursive feature elimination, Backward Elimination, random forest feature importance graph.
-- Train/Test split: Creationg feature matrix and target array. Then Splitting them into X_train, Y_train, y_test, y_test into a certain split ratio.
-- Modeling: First, Machine Learning Algorithms or Deep Neural Networks is used to train different models using train dataset. Then, we test the models on the test dataset and compare their performance metrics.
-- Saving the model: Creating a .pkl file to be used later
-- Conclusion: After analysing performance metrics for different algorithms, the chosen model with best results is mentioned here with the key highlights. It also includes the future scope of the project.
+Every **End-to-End Projects** includes the following methodology:
+1. *Introduction*: Brief introduction to the project highlingting the problem statement along with the objective of the project.
+2. *Dataset Description*: A description regarding the source of the dataset along with the variables used. This also highlights the performance metrics used for comparison
+3. *Importing Dataset and libraries required*
+4. *Exploratory Data Analysis (EDA)*: Gaining insights from the dataset by exploring every dependent and independent variables. A few tasks includes checking variables for missing values; finding the range of different variables before implementing standardisation; finding correlation between the variables etc. All of this is done using pandas library in Python and dplyr in R.
+5. *Data Preprocessing*: Includes tasks like imputing missing values; Standardisation/Normalisation of the numeric dependent variables
+6. *Feature Engineering*: Includes tasks like One-hot encoding; Label encoding; Feature extraction techniques such as Recursive feature elimination, Backward Elimination, random forest feature importance graph.
+7. *Train/Test split*: Creationg feature matrix and target array. Then Splitting them into X_train, Y_train, y_test, y_test into a certain split ratio.
+8. *Modeling*: First, Machine Learning Algorithms or Deep Neural Networks is used to train different models using train dataset. Then, we test the models on the test dataset and compare their performance metrics.
+9. *Saving the model*: Creating a .pkl file to be used later
+10. *Conclusion*: After analysing performance metrics for different algorithms, the chosen model with best results is mentioned here with the key highlights. It also includes the future scope of the project.
+11. *Deployment of the model* - This step is under progress and will be updated shortly
 
 # Data Science Portfolio - Arch Desai
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
