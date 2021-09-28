@@ -31,11 +31,13 @@ To accurately predict the Length of Stay for each patient on case by case basis 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="175" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/What-is-the-life-expectancy-for-someone-with-dementia.png"> **[Life Expectancy Prediction - R](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/Life_Expectancy_R.ipynb)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+The aim of this report is to carry out predictive modelling of Life Expectancy of a patient using the GHO data mentioned above on Jupyter Notebook IDE using R-programming language. It is a Regression problem with the independent variable being a ratio variables.
 
-Language: *Python*; Frameworks: *NumPy, Pandas, Seaborn, Matplotlib, scikit-learn*
+**Language**: *R*; **Frameworks**: *dplyr, tidyr, ggplot2, caret*;
+**Classifiers**: Xgboost, Random forest
+
 
 # Data Science Portfolio - Arch Desai
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
