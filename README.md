@@ -1,6 +1,6 @@
 # Data Science Portfolio - Divit Saini
 
-I am a fellow Chemical Engineer who is currently pursuing MSc Advanced Chemical Engineering at Imperial College London. The inquisitiveness regarding Data-Driven approaches in the domain of engineering motivated me to explore the field of Data Science by completing a Post Graduate Diploma in Data Science and AI from the College of Engineering Pune, India. This portfolio entails completed Data Science end-to-end projects as well as different case studies specific to Machine Learning Algorithms. The projects are showcased in the form of jupyter notebooks implemented in Python as well as R. This is updated on a regular basis.
+I am a fellow Chemical Engineer who is currently pursuing **MSc Advanced Chemical Engineering** at **Imperial College London**. The inquisitiveness regarding Data-Driven approaches in the domain of engineering motivated me to explore the field of Data Science by completing a Post Graduate Diploma in Data Science and AI from the College of Engineering Pune, India. This portfolio entails completed Data Science end-to-end projects as well as different case studies specific to Machine Learning Algorithms. The projects are showcased in the form of jupyter notebooks implemented in Python as well as R. This is updated on a regular basis.
 
 - **Email**: [sainidivit@gmail.com](sainidivit@gmail.com)
 - **LinkedIn**: [linkedin.com/divitsaini](https://www.linkedin.com/in/divitsaini/)
@@ -19,6 +19,16 @@ Every **End-to-End Projects** includes the following methodology:
 10. *Saving the model*: Creating a .pkl file to be used later
 11. *Conclusion*: After analysing performance metrics for different algorithms, the chosen model with best results is mentioned here with the key highlights. It also includes the future scope of the project.
 12. *Deployment of the model*: This is an undergoing step and will be updated shortly.
+
+## End-to-End Projects
+
+<img align="left" width="250" height="150" src="https://github.com/divitsaini/Data_Science_Portfolio/End to End ML projects/Healthcare Analytics - COVID19/Stats_picture.png"> **[Healthcare Analytics - Covid 19](https://github.com/divitsaini/End to End ML projects/Healthcare Analytics - COVID19/Healthcare_COVID19.ipynb)**
+
+To accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days. It is a Classification problem.
+
+- **Python**: NumPy, Pandas, Seaborn, Matplotlib
+- **Machine Learning**: scikit-learn
+
 
 # Data Science Portfolio - Arch Desai
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
