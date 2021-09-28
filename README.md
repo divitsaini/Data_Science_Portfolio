@@ -18,7 +18,7 @@ Every **End-to-End Projects** includes the following methodology:
 9. *Modeling*: First, Machine Learning Algorithms or Deep Neural Networks is used to train different models using train dataset. Then, we test the models on the test dataset and compare their performance metrics.
 10. *Saving the model*: Creating a .pkl file to be used later
 11. *Conclusion*: After analysing performance metrics for different algorithms, the chosen model with best results is mentioned here with the key highlights. It also includes the future scope of the project.
-12. *Deployment of the model* - This step is under progress and will be updated shortly
+12. *Deployment of the model*: This is an undergoing step and will be updated shortly.
 
 # Data Science Portfolio - Arch Desai
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
