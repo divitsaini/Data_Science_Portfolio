@@ -22,7 +22,7 @@ Every **End-to-End Projects** includes the following methodology:
 
 ## End-to-End Projects
 
-<img align="left" width="250" height="250" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Healthcare%20Analytics%20-%20COVID19/Stats_picture.png"> **[Healthcare Analytics - Covid 19](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Healthcare%20Analytics%20-%20COVID19/Healthcare_COVID19.ipynb)**
+<img align="left" width="250" height="150" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Healthcare%20Analytics%20-%20COVID19/Stats_picture.png"> **[Healthcare Analytics - Covid 19](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Healthcare%20Analytics%20-%20COVID19/Healthcare_COVID19.ipynb)**
 
 To accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days. It is a Classification problem.
 
