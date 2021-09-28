@@ -22,13 +22,19 @@ Every **End-to-End Projects** includes the following methodology:
 
 ## End-to-End Projects
 
-<img align="left" width="250" height="250" src="https://github.com/divitsaini/Data_Science_Portfolio/End to End ML projects/Healthcare Analytics - COVID19/Stats_picture.png"> **[Healthcare Analytics - Covid 19](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Healthcare%20Analytics%20-%20COVID19/Stats_picture.png)**
+<img align="left" width="250" height="250" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Healthcare%20Analytics%20-%20COVID19/Stats_picture.png"> **[Healthcare Analytics - Covid 19](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Healthcare%20Analytics%20-%20COVID19/Healthcare_COVID19.ipynb)**
 
 To accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days. It is a Classification problem.
 
-- **Python**: NumPy, Pandas, Seaborn, Matplotlib
-- **Machine Learning**: scikit-learn
+Language: *Python*; Frameworks: *NumPy, Pandas, Seaborn, Matplotlib, scikit-learn*
 
+#
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+
+Language: *Python*; Frameworks: *NumPy, Pandas, Seaborn, Matplotlib, scikit-learn*
 
 # Data Science Portfolio - Arch Desai
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
