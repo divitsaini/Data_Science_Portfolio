@@ -91,9 +91,6 @@ In this project, I have used Convolutional Neural Network (CNN) using ResNet50 a
 
 In this project, we will cover a step-bystep approach on how to perform Custom Object Detection using TFOD. It was performed on annotated pothole dataset on Kaggle. The pretrained model used was SSD ResNet50 V1 FPN 640x640 model. The pre-requisites includes the installation of Tensorflow Object Detection API.
 
-- The link to the dataset: https://www.kaggle.com/chitholian/annotated-potholes-dataset
-- The link to the installation of TFOD guide: https://tensorflow-object-detection-api tutorial.readthedocs.io/en/latest/install.html 
-
-**Language**: *Python*; **Frameworks**: *NumPy, Tensorflow, keras*;
-**Neural Networks**: Convolution Neural Networks, Transfer Learning (ResNet50 and VGG16)
+**Language**: *Python*; **Frameworks**: *NumPy, Tensorflow, keras, TFOD api*;
+**Neural Networks**: Transfer Learning (RSSD ResNet50 V1 FPN 640x640 model)
 
