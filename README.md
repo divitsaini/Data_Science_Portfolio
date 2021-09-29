@@ -50,7 +50,7 @@ The aim of this report is to use the medical history/reports of the patients giv
 
 #
 
-<img align="left" width="275" height="200" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/What-is-the-life-expectancy-for-someone-with-dementia.png"> **[Life Expectancy Prediction - R](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/Life_Expectancy_R.ipynb)**
+<img align="left" width="275" height="200" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Credit%20Risk%20Modeling/R.jpg"> **[Credit Risk Modeling](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Credit%20Risk%20Modeling/CRMEndtoEnd.ipynb)**
 
 The aim of this report is to to predict whether a loan applicant will fully repay or default on a loan. Then I build a machine learning model that returns the unique loan ID and a loan status label that indicates whether the loan will be fully paid or charged off. It is a binary classification problem.
 
