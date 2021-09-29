@@ -31,6 +31,7 @@ It is a global, yet hyper-relevant source of carbon footprint reduction appa. Yo
 **Language**: *Python*; **Frameworks**: *NumPy, Pandas, Seaborn, Matplotlib, scikit-learn, AutoML*;
 **Methodologies**: Regression, Neural networks, ReactJS, Time series forecasting
 
+#
 
 ## End-to-End Machine Learning Projects
 
