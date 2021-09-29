@@ -33,11 +33,10 @@ To accurately predict the Length of Stay for each patient on case by case basis 
 
 <img align="left" width="275" height="200" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/What-is-the-life-expectancy-for-someone-with-dementia.png"> **[Life Expectancy Prediction - R](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/Life_Expectancy_R.ipynb)**
 
-The aim of this report is to carry out predictive modelling of Life Expectancy of a patient using the GHO data mentioned above on Jupyter Notebook IDE using R-programming language. It is a Regression problem with the independent variable being a ratio variable. 
+The aim of this report is to carry out predictive modelling of Life Expectancy of a patient using the GHO data mentioned above on Jupyter Notebook IDE using R-programming language. It is a Regression problem with the independent variable being a ratio variable. Hypothesis T-test was carried out to compare the two variables in the EDA section.
 
 **Language**: *R*; **Frameworks**: *dplyr, tidyr, ggplot2, caret*;
 **Regressors**: Xgboost, Random Forest
-
 
 #
 
