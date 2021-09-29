@@ -31,7 +31,7 @@ To accurately predict the Length of Stay for each patient on case by case basis 
 
 #
 
-<img align="left" width="250" height="175" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/What-is-the-life-expectancy-for-someone-with-dementia.png"> **[Life Expectancy Prediction - R](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/Life_Expectancy_R.ipynb)**
+<img align="left" width="275" height="200" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/What-is-the-life-expectancy-for-someone-with-dementia.png"> **[Life Expectancy Prediction - R](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/Life_Expectancy_R.ipynb)**
 
 The aim of this report is to carry out predictive modelling of Life Expectancy of a patient using the GHO data mentioned above on Jupyter Notebook IDE using R-programming language. It is a Regression problem with the independent variable being a ratio variable.
 
@@ -40,7 +40,7 @@ The aim of this report is to carry out predictive modelling of Life Expectancy o
 
 #
 
-<img align="left" width="250" height="175" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Quality%20of%20Health%20-%20Classification/GoodCare_PoorCare.jpg"> **[Healthcare Analytics - Good care/Poor care](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Quality%20of%20Health%20-%20Classification/Logistic_Regression_HealthCare.ipynb)**
+<img align="left" width="275" height="200" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Quality%20of%20Health%20-%20Classification/GoodCare_PoorCare.jpg"> **[Healthcare Analytics - Good care/Poor care](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Quality%20of%20Health%20-%20Classification/Logistic_Regression_HealthCare.ipynb)**
 
 The aim of this report is to use the medical history/reports of the patients given in the dataset to predict whether Good/Poor Care was given. It is a binary classification problem. Different feature extraction techniques such as forward/backward elimination and Recursive Feature Elimination are explored in depth.
 
@@ -49,7 +49,7 @@ The aim of this report is to use the medical history/reports of the patients giv
 
 #
 
-<img align="left" width="250" height="175" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/What-is-the-life-expectancy-for-someone-with-dementia.png"> **[Life Expectancy Prediction - R](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/Life_Expectancy_R.ipynb)**
+<img align="left" width="275" height="200" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/What-is-the-life-expectancy-for-someone-with-dementia.png"> **[Life Expectancy Prediction - R](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/R%20Project%20-%20Life%20Expectancy%20Prediction/Life_Expectancy_R.ipynb)**
 
 The aim of this report is to carry out predictive modelling of Life Expectancy of a patient using the GHO data mentioned above on Jupyter Notebook IDE using R-programming language. It is a Regression problem with the independent variable being a ratio variable.
 
