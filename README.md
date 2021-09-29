@@ -1,5 +1,7 @@
 # Data Science Portfolio - Divit Saini
 
+<img align="centre" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/ProfilePic.jpg">
+
 I am a fellow Chemical Engineer who is currently pursuing **MSc Advanced Chemical Engineering** at **Imperial College London**. The inquisitiveness regarding Data-Driven approaches in the domain of engineering motivated me to explore the field of Data Science by completing a Post Graduate Diploma in Data Science and AI from the College of Engineering Pune, India. This portfolio entails completed Data Science end-to-end projects as well as different case studies specific to Machine Learning Algorithms. The projects are showcased in the form of jupyter notebooks implemented in Python as well as R. This is updated on a regular basis.
 
 - **Email**: [sainidivit@gmail.com](sainidivit@gmail.com)
