@@ -55,3 +55,12 @@ The aim of this report is to to predict whether a loan applicant will fully repa
 
 **Language**: *Python*; **Frameworks**: *NumPy, Pandas, Seaborn, Matplotlib, scikit-learn*;
 **Classifiers**: Xgboost, Random Forest, CART
+
+#
+
+<img align="left" width="275" height="200" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Price%20Prediction%20-%20Bags/baggage_dimensions_en_2.png"> **[Price Prediction Model - Bags](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Price%20Prediction%20-%20Bags/BAGS_ABC_by_Divit-Stats_model-FINAL.ipynb)**
+
+The aim of this report is to to predict the cost to be set for a new variant of the kinds of bags based on the specified attributes using multiple linear regression model
+
+**Language**: *Python*; **Frameworks**: *NumPy, Pandas, Seaborn, Matplotlib, scikit-learn*;
+**Regressor**: Linear Regression
