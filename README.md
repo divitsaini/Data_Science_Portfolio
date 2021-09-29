@@ -20,6 +20,18 @@ Every **End-to-End Projects** includes the following methodology:
 11. *Conclusion*: After analysing performance metrics for different algorithms, the chosen model with best results is mentioned here with the key highlights. It also includes the future scope of the project.
 12. *Deployment of the model*: This is an undergoing step and will be updated shortly.
 
+#
+
+## Hackathon - Hack-From-Home 2021
+
+<img align="left" width="275" height="200" src="https://github.com/divitsaini/hackfromhome2021-wsid/blob/main/1-homepage.png"> **["Watt Should I do?"](https://github.com/divitsaini/hackfromhome2021-wsid)**
+
+It is a global, yet hyper-relevant source of carbon footprint reduction appa. You will find people with similar energy usage profiles and find out what made the biggest impact on their carbon footprint, so you can do the same.
+
+**Language**: *Python*; **Frameworks**: *NumPy, Pandas, Seaborn, Matplotlib, scikit-learn, AutoML*;
+**Methodologies**: Regression, Neural networks, ReactJS, Time series forecasting
+
+
 ## End-to-End Machine Learning Projects
 
 <img align="left" width="275" height="200" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Healthcare%20Analytics%20-%20COVID19/Stats_picture.png"> **[Healthcare Analytics - Covid 19](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Healthcare%20Analytics%20-%20COVID19/Healthcare_COVID19.ipynb)**
