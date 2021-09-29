@@ -78,7 +78,7 @@ In this project, we adopt a deep convolution neural network (CNN) approach for c
 
 #
 
-<img align="left" width="275" height="200" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/Deep%20Learning/Computer%20Vision/Image%20Classification/Malaria%20Cell%20Classification%20-%20Transfer_learning/Capture1.JPG"> **[Waste Classification - CNN](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/Deep%20Learning/Computer%20Vision/Image%20Classification/Malaria%20Cell%20Classification%20-%20Transfer_learning/Malaria_Cell_Classification_VGG16_RESNET.ipynb)**
+<img align="left" width="275" height="200" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/Deep%20Learning/Computer%20Vision/Image%20Classification/Malaria%20Cell%20Classification%20-%20Transfer_learning/Capture1.JPG"> **[Malaria Cell Classification - Transfer Learning](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/Deep%20Learning/Computer%20Vision/Image%20Classification/Malaria%20Cell%20Classification%20-%20Transfer_learning/Malaria_Cell_Classification_VGG16_RESNET.ipynb)**
 
 In this project, I have used Convolutional Neural Network (CNN) using ResNet50 and VGG16 Pre-Trained Models to classify Malaria cell images as Parasitized or Uninfected taken from human blood samples. This notebook also mentions a performance comparison table between the two pre-trained models and the testing of images is carried out on the best performing model. The testing is carried out by creating a simple UI by gradio library. 
 
