@@ -20,7 +20,7 @@ Every **End-to-End Projects** includes the following methodology:
 11. *Conclusion*: After analysing performance metrics for different algorithms, the chosen model with best results is mentioned here with the key highlights. It also includes the future scope of the project.
 12. *Deployment of the model*: This is an undergoing step and will be updated shortly.
 
-## End-to-End Projects
+## End-to-End Machine Learning Projects
 
 <img align="left" width="275" height="200" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Healthcare%20Analytics%20-%20COVID19/Stats_picture.png"> **[Healthcare Analytics - Covid 19](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/End%20to%20End%20ML%20projects/Healthcare%20Analytics%20-%20COVID19/Healthcare_COVID19.ipynb)**
 
@@ -64,3 +64,23 @@ The aim of this report is to to predict the cost to be set for a new variant of 
 
 **Language**: *Python*; **Frameworks**: *NumPy, Pandas, Seaborn, Matplotlib, scikit-learn*;
 **Regressor**: Linear Regression
+
+
+
+## End-to-End Deep Learning Projects
+
+<img align="left" width="275" height="200" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/Deep%20Learning/Computer%20Vision/Image%20Classification/Waste_Classification_CNN/OIP.jpg"> **[Waste Classification - CNN](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/Deep%20Learning/Computer%20Vision/Image%20Classification/Waste_Classification_CNN/Waste_Classification.ipynb)**
+
+In this project, we adopt a deep convolution neural network (CNN) approach for classifying waste images (Recycle and Organic). It highlights a step by step approach on how to implement a deep CNN to perform image classification problem on waste data (images). 
+
+**Language**: *Python*; **Frameworks**: *NumPy, Tensorflow, keras*;
+**Neural Networks**: Convolution Neural Networks
+
+#
+
+<img align="left" width="275" height="200" src="https://github.com/divitsaini/Data_Science_Portfolio/blob/main/Deep%20Learning/Computer%20Vision/Image%20Classification/Malaria%20Cell%20Classification%20-%20Transfer_learning/Capture1.JPG"> **[Waste Classification - CNN](https://github.com/divitsaini/Data_Science_Portfolio/blob/main/Deep%20Learning/Computer%20Vision/Image%20Classification/Malaria%20Cell%20Classification%20-%20Transfer_learning/Malaria_Cell_Classification_VGG16_RESNET.ipynb)**
+
+In this project, I have used Convolutional Neural Network (CNN) using ResNet50 and VGG16 Pre-Trained Models to classify Malaria cell images as Parasitized or Uninfected taken from human blood samples. This notebook also mentions a performance comparison table between the two pre-trained models and the testing of images is carried out on the best performing model. The testing is carried out by creating a simple UI by gradio library. 
+
+**Language**: *Python*; **Frameworks**: *NumPy, Tensorflow, keras*;
+**Neural Networks**: Convolution Neural Networks, Transfer Learning (ResNet50 and VGG16)
