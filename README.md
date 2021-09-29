@@ -65,7 +65,7 @@ The aim of this report is to to predict the cost to be set for a new variant of 
 **Language**: *Python*; **Frameworks**: *NumPy, Pandas, Seaborn, Matplotlib, scikit-learn*;
 **Regressor**: Linear Regression
 
-
+#
 
 ## End-to-End Deep Learning Projects
 
