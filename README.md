@@ -35,9 +35,9 @@ To accurately predict the Length of Stay for each patient on case by case basis 
 
 The aim of this report is to carry out predictive modelling of Life Expectancy of a patient using the GHO data mentioned above on Jupyter Notebook IDE using R-programming language. It is a Regression problem with the independent variable being a ratio variable.
 
-
 **Language**: *R*; **Frameworks**: *dplyr, tidyr, ggplot2, caret*;
 **Regressors**: Xgboost, Random Forest
+
 
 #
 
