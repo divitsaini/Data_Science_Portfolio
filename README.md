@@ -6,7 +6,7 @@ I am a fellow Chemical Engineer who is currently pursuing **MSc Advanced Chemica
 - **LinkedIn**: [linkedin.com/divitsaini](https://www.linkedin.com/in/divitsaini/)
 
 
-Every **End-to-End Projects** includes the following methodology:
+Every **End-to-End Project** includes the following methodology:
 1. *Introduction*: Brief introduction to the project highlingting the problem statement along with the objective of the project.
 
 2. *Dataset Description*: A description regarding the source of the dataset along with the variables used. This also highlights the performance metrics used for comparison
