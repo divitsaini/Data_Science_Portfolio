@@ -1,9 +1,10 @@
 # Data Science Portfolio - Divit Saini
 
-I am a fellow Chemical Engineer who is currently pursuing **MSc Advanced Chemical Engineering** at **Imperial College London**. The inquisitiveness regarding Data-Driven approaches in the domain of engineering motivated me to explore the field of Data Science by completing a Post Graduate Diploma in Data Science and AI from the College of Engineering Pune, India. This portfolio entails completed Data Science end-to-end projects as well as different case studies specific to Machine Learning Algorithms. The projects are showcased in the form of jupyter notebooks implemented in Python as well as R. This is updated on a regular basis.
+I am a fellow Chemical Engineer who is currently pursuing **MSc Advanced Chemical Engineering** at **Imperial College London**. The inquisitiveness regarding Data-Driven approaches in the domain of engineering motivated me to explore the field of Data Science by completing a Post Graduate Diploma in Data Science and AI from the College of Engineering Pune, India. This portfolio entails completed Data Science end-to-end projects as well as different case studies specific to Machine Learning Algorithms. The projects are showcased in the form of jupyter notebooks implemented in Python as well as R. This is updated on a regular basis. 
 
 - **Email**: [sainidivit@gmail.com](sainidivit@gmail.com)
 - **LinkedIn**: [linkedin.com/divitsaini](https://www.linkedin.com/in/divitsaini/)
+- **Tableau Public**: [tableau.com/divit.saini](https://public.tableau.com/app/profile/divit.saini)
 
 
 Every **End-to-End Project** includes the following methodology:
